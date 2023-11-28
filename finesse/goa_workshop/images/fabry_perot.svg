@@ -1,0 +1,87 @@
+<svg height="99.76" viewBox="0 0 338.63 99.76" width="338.63" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<linearGradient id="a" gradientUnits="userSpaceOnUse" x1=".002" x2=".002" y1="33.346" y2="12.754">
+		<stop offset="0" stop-color="#fff"/>
+		<stop offset=".0051" stop-color="#fefcfc"/>
+		<stop offset=".1497" stop-color="#e6a4a4"/>
+		<stop offset=".277" stop-color="#d35e5e"/>
+		<stop offset=".3823" stop-color="#c62b2b"/>
+		<stop offset=".4615" stop-color="#bd0c0c"/>
+		<stop offset=".5056" stop-color="#ba0000"/>
+		<stop offset=".7077" stop-color="#d86e6e"/>
+		<stop offset=".9099" stop-color="#f4d6d6"/>
+		<stop offset="1" stop-color="#fff"/>
+	</linearGradient>
+	<linearGradient id="b" gradientUnits="userSpaceOnUse" x1=".106" x2=".106" y1="29.098" y2=".002">
+		<stop offset=".0056" stop-color="#89a4b6"/>
+		<stop offset=".5" stop-color="#fff"/>
+		<stop offset="1" stop-color="#89a4b6"/>
+	</linearGradient>
+	<radialGradient id="c" cx="9.59" cy="8.25" fx="9.59" fy="8.25" gradientTransform="matrix(2.71 0 0 2.66 -16.42 -15.83)" gradientUnits="userSpaceOnUse" r="6.75" xlink:href="#d"/>
+	<radialGradient id="d" cx="8.88" cy="7.46" fx="8.88" fy="7.46" gradientUnits="userSpaceOnUse" r="17.07">
+		<stop offset="0" stop-color="#fede58"/>
+		<stop offset=".6854" stop-color="#ba0000"/>
+	</radialGradient>
+	<marker id="e" orient="auto" overflow="visible" refX="0" refY="0">
+		<path d="m8.72 4.03-10.93-4.01 10.93-4.02c-1.75 2.37-1.74 5.62 0 8.04z" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".63" transform="scale(.6)"/>
+	</marker>
+	<marker id="f" orient="auto" overflow="visible" refX="0" refY="0">
+		<path d="m8.72 4.03-10.93-4.01 10.93-4.02c-1.75 2.37-1.74 5.62 0 8.04z" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".63" transform="scale(-.6)"/>
+	</marker>
+	<radialGradient id="g" cx="9.59" cy="8.25" fx="9.59" fy="8.25" gradientTransform="matrix(2.71 0 0 2.66 -16.42 -15.83)" gradientUnits="userSpaceOnUse" r="6.75" xlink:href="#d"/>
+	<g transform="translate(160 -181.27)">
+		<g fill="none" stroke="#f00" stroke-linecap="round">
+			<path d="m-114.01 229.14 79.47.06" stroke-width="1.5"/>
+			<path d="m-32.41 229.2h117.99" stroke-width="4.5"/>
+			<path d="m85.58 229.2h35.08" stroke-width="1.5"/>
+			<path d="m-44.81 229.28c-17.94-.12-15.61 26.77-15.07 40.56" stroke-width="1.5"/>
+			<path d="m35.24 228.61c-17.94-.12-15.62 26.77-15.07 40.55" stroke-width="1.5"/>
+		</g>
+		<g enable-background="new" transform="matrix(-.75 0 0 -.75 -113.73 246.62)">
+			<path d="m.38.38h56.69v12.76h-56.69z" fill="#302b33"/>
+			<path d="m.38 32.97h56.69v12.76h-56.69z" fill="#302b33"/>
+			<g stroke="#000" stroke-width=".75">
+				<path d="m.38 13.13h56.69v19.84h-56.69z" fill="url(#a)"/>
+				<path d="m57.07 3.21h4.25v39.69h-4.25z"/>
+				<path d="m.38.38h56.69v45.35h-56.69z" fill="none"/>
+			</g>
+		</g>
+		<g enable-background="new" stroke="#000" stroke-width=".75" transform="matrix(-.75 0 0 -.75 -28.22 240.11)">
+			<path d="m8.84.38h-8.36c.76 3.05 1.27 8.25 1.27 14.17s-.51 11.13-1.27 14.17h8.36z" fill="url(#b)"/>
+			<path d="m7.42.38h2.84v28.35h-2.84z"/>
+			<path d="m8.98 4.63h8.5v19.84h-8.5z"/>
+		</g>
+		<g enable-background="new" stroke="#000" stroke-width=".75" transform="matrix(.75 0 0 .75 80.73 218.29)">
+			<path d="m8.84.38h-8.36c.76 3.05 1.27 8.25 1.27 14.17s-.51 11.13-1.27 14.17h8.36z" fill="url(#b)"/>
+			<path d="m7.42.38h2.84v28.35h-2.84z"/>
+		</g>
+		<g enable-background="new" stroke="#000" stroke-width=".75" transform="matrix(.75 0 0 .75 118.32 220.18)">
+			<path d="m6.04 1.79c-.99 0-1.94.15-2.84.42v19.01c.9.27 1.85.42 2.84.42 5.48 0 9.92-4.44 9.92-9.92s-4.44-9.92-9.92-9.92z" fill="url(#c)"/>
+			<path d="m.38.38h2.84v22.68h-2.84z"/>
+		</g>
+		<text font-family="cmr10" x="-148.45" y="204.92"><tspan font-size="12" x="-148.45" y="204.92">laser</tspan></text>
+		<text fill="#0000ae" font-family="cmr10" x="120.96" y="195.26"><tspan font-size="12" x="120.96" y="195.26">cavity</tspan></text>
+		<g enable-background="new" transform="translate(-649.52 -182.27)">
+			<g enable-background="new" stroke="#000" stroke-width=".75" transform="matrix(0 .75 -.75 0 598.37 450.71)">
+				<path d="m6.04 1.79c-.99 0-1.94.15-2.84.42v19.01c.9.27 1.85.42 2.84.42 5.48 0 9.92-4.44 9.92-9.92s-4.44-9.92-9.92-9.92z" fill="url(#c)"/>
+				<path d="m.38.38h2.84v22.68h-2.84z"/>
+			</g>
+			<text font-family="sans-serif" x="603.93" y="458"><tspan font-family="sans-serif" font-size="12" x="603.93" y="458">PD</tspan></text>
+			<text font-family="cmr10" x="622.79" y="459.84"><tspan font-family="cmr10" font-size="10" x="622.79" y="459.84">refl</tspan></text>
+		</g>
+		<text font-family="cmr10" x="135.55" y="231.8"><tspan font-size="12" x="135.55" y="231.8">PD</tspan></text>
+		<text font-family="cmr10" x="154.96" y="233.64"><tspan font-size="10" x="154.96" y="233.64">trans</tspan></text>
+		<text font-family="cmr10" x="40.29" xml:space="preserve" y="199.41"><tspan font-size="12" x="40.29" y="199.41">end mirror </tspan><tspan font-size="12" x="40.29" y="214.41">         m2</tspan></text>
+		<text font-family="cmr10" x="-58.09" xml:space="preserve" y="200"><tspan font-size="12" x="-58.09" y="200">input mirror </tspan><tspan font-size="12" x="-58.09" y="215">    m1</tspan></text>
+		<path d="m-23.57 220.53h99.21" marker-end="url(#f)" marker-start="url(#e)" stroke="#000" stroke-width="1.5"/>
+		<text font-family="cmr10" x="20.09" y="217.61"><tspan font-size="12" x="20.09" y="217.61">D</tspan></text>
+		<rect height="72.9" rx="11.25" ry="11.88" style="fill:none;stroke:#0000ae;stroke-width:2.05;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8.22 8.22" width="178.77" x="-64.69" y="182.29"/>
+		<g enable-background="new" transform="translate(-568.81 -181.95)">
+			<g enable-background="new" stroke="#000" stroke-width=".75" transform="matrix(0 .75 -.75 0 598.37 450.71)">
+				<path d="m6.04 1.79c-.99 0-1.94.15-2.84.42v19.01c.9.27 1.85.42 2.84.42 5.48 0 9.92-4.44 9.92-9.92s-4.44-9.92-9.92-9.92z" fill="url(#g)"/>
+				<path d="m.38.38h2.84v22.68h-2.84z"/>
+			</g>
+			<text font-family="sans-serif" x="603.93" y="458"><tspan font-family="sans-serif" font-size="12" x="603.93" y="458">PD</tspan></text>
+			<text font-family="cmr10" x="622.79" y="459.84"><tspan font-family="cmr10" font-size="10" x="622.79" y="459.84">circ</tspan></text>
+		</g>
+	</g>
+</svg>
